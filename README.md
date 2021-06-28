@@ -1,4 +1,4 @@
-# logpicker.github.io
+# Logpicker
 
 ## Cite us!
 
