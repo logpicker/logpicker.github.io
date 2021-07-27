@@ -1,8 +1,17 @@
 # Logpicker
 
-## Cite us!
+## About
 
+LogPicker is a novel protocol for strengthening the public key infrastructure of HTTPS.
+It enables a pool of Certificate Transparency (CT) logs to collaborate, where a randomly selected log includes the certificate while the rest witness and testify the certificate issuance process. 
+
+As a result, CT logs become capable of auditing the log in charge independently without the need for a trusted third party.
+This auditing forces an attacker to control each participating witness, which significantly raises the bar for issuing rogue certificates. 
+LogPicker is efficient and designed to be deployed incrementally, allowing a smooth transition towards a more secure Web.
+
+You can read your our paper [HERE](https://loxo.ias.cs.tu-bs.de/papers/2021_PETS_Logpicker.pdf) or watch the pre-recorded PETS talk on [YouTube](https://www.youtube.com/watch?v=qWqty2U7zAo&list=PLWSQygNuIsPdfA8TBXlw647oHIJY21RFj&index=65).
 If you use our prototype or build on our work, please cite us as follows:
+
 ```
 @article{dirksen2021logpicker,
   title={LogPicker: Strengthening Certificate Transparency Against Covert Adversaries},
