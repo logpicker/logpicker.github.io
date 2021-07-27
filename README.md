@@ -22,6 +22,7 @@ If you use our prototype or build on our work, please cite us as follows:
   year={2021}
 }
 ```
+For any questions please contact [Alexandra Dirksen](https://www.tu-braunschweig.de/ias/staff/alexandra-dirksen) via mail or [Twitter](https://twitter.com/z4lem).
 
 ## Artifacts
 
