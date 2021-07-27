@@ -1,4 +1,4 @@
-# Logpicker
+# LogPicker - Strengthening Certificate Transparency
 
 ## About
 
